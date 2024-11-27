@@ -1,0 +1,201 @@
+{
+    "bookings": [
+        {
+            "appointment_id": 284225436,
+            "note": "Birthday visit",
+            "price": "45.00",
+            "calendar_properties": {
+                "id": 355573672,
+                "start": "2024-11-18T10:00:00.0000000",
+                "end": "2024-11-18T10:20:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Italian shave",
+                "color": "#2FCC71"
+            },
+            "customer": {
+                "id": 27894956
+            }
+        },
+        {
+            "appointment_id": 290545331,
+            "price": "30.00",
+            "calendar_properties": {
+                "id": 363960467,
+                "start": "2024-11-18T10:45:00.0000000",
+                "end": "2024-11-18T11:00:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Beard trim",
+                "color": "#8F65EB"
+            },
+            "customer": {
+                "id": 28663846
+            }
+        },
+        {
+            "appointment_id": 266349980,
+            "price": "99.99",
+            "calendar_properties": {
+                "id": 331571914,
+                "start": "2024-11-18T15:20:00.0000000",
+                "end": "2024-11-18T16:05:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Fancy Haircut",
+                "color": "#1BBC9D"
+            },
+            "customer": {
+                "id": 27895010
+            }
+        },
+        {
+            "appointment_id": 292936649,
+            "price": "30.00",
+            "calendar_properties": {
+                "id": 367009758,
+                "start": "2024-11-19T10:15:00.0000000",
+                "end": "2024-11-19T10:30:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Beard Trim",
+                "color": "#8F65EB"
+            },
+            "customer": {
+                "id": 33443631
+            }
+        },
+        {
+            "appointment_id": 292963364,
+            "price": "12.00",
+            "calendar_properties": {
+                "id": 367036642,
+                "start": "2024-11-19T10:30:00.0000000",
+                "end": "2024-11-19T11:00:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Beard Oil",
+                "color": "#E884FF"
+            },
+            "customer": {
+                "id": 33443631
+            }
+        },
+        {
+            "appointment_id": 292981690,
+            "note": "Test note",
+            "price": "60.00",
+            "calendar_properties": {
+                "id": 367055771,
+                "start": "2024-11-18T11:00:00.0000000",
+                "end": "2024-11-18T11:45:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Haircut",
+                "color": "#CEE300"
+            },
+            "customer": {
+                "id": 27894966
+            }
+        },
+        {
+            "appointment_id": 292923732,
+            "price": "0.00",
+            "calendar_properties": {
+                "id": 366996751,
+                "start": "2024-11-22T10:00:00.0000000",
+                "end": "2024-11-22T10:30:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "The Bruce Banner",
+                "color": "#F1C40F"
+            },
+            "customer": {
+                "id": 33099072
+            }
+        },
+        {
+            "appointment_id": 292990743,
+            "price": "12.00",
+            "calendar_properties": {
+                "id": 367064866,
+                "start": "2024-11-19T11:45:00.0000000",
+                "end": "2024-11-19T12:15:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Rate my beard",
+                "color": "#25E4D8"
+            },
+            "customer": {
+                "id": 33099072
+            }
+        },
+        {
+            "appointment_id": 292963365,
+            "price": "12.00",
+            "calendar_properties": {
+                "id": 367036643,
+                "start": "2024-11-21T10:30:00.0000000",
+                "end": "2024-11-21T11:00:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Beard Oil",
+                "color": "#E884FF"
+            },
+            "customer": {
+                "id": 33443631
+            }
+        },
+        {
+            "appointment_id": 293023814,
+            "price": "15.00",
+            "calendar_properties": {
+                "id": 367098070,
+                "start": "2024-11-19T11:00:00.0000000",
+                "end": "2024-11-19T11:30:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "Beard Brush",
+                "color": "#FD62C1"
+            },
+            "customer": {
+                "id": 33443631
+            }
+        },
+        {
+            "appointment_id": 292923853,
+            "price": "0.00",
+            "calendar_properties": {
+                "id": 366996872,
+                "start": "2024-11-21T10:30:00.0000000",
+                "end": "2024-11-21T11:00:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "The Hulk Smash",
+                "color": "#CEE300"
+            },
+            "customer": {
+                "id": 33099072
+            }
+        },
+        {
+            "appointment_id": 292985110,
+            "price": "0.00",
+            "calendar_properties": {
+                "id": 367059203,
+                "start": "2024-11-21T11:00:00.0000000",
+                "end": "2024-11-21T11:30:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "The Widdow",
+                "color": "#8BD846"
+            },
+            "customer": {
+                "id": 33099072
+            }
+        },
+        {
+            "appointment_id": 292996858,
+            "price": "0.00",
+            "calendar_properties": {
+                "id": 367071007,
+                "start": "2024-11-19T11:30:00.0000000",
+                "end": "2024-11-19T12:00:00.0000000",
+                "staff_name": "John Smyth",
+                "name": "The Glitter Finish",
+                "color": "#E32272"
+            },
+            "customer": {
+                "id": 33443631
+            }
+        }
+    ]
+}
